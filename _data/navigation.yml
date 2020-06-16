@@ -4,4 +4,4 @@ main:
     url: /publications/
     
   - title: "CV"
-    url: https://github.com/ricvolpi/cv/blob/master/cv.pdf
+    url: /cv/cv.pdf
