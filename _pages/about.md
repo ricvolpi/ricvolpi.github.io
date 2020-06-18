@@ -16,7 +16,8 @@ My research is mostly devoted to learning visual representations that are robust
 
 Before, I've also worked on applications of machine learning for [high-dimensional retinal data](https://www.renvision-fp7.eu/).
 
-Feel free to drop me an email! 
+Feel free to drop me an email!
+
 *riccardo (dot) volpi (at) outlook.com*
 
 Publications
