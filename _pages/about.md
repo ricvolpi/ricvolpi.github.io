@@ -16,4 +16,4 @@ My research is mostly focused on learning visual representations that are robust
 
 Feel free to drop me an email!
 
-*rvolpi (at) hey.com*
+*riccardo.volpi (at) outlook.com*
