@@ -14,6 +14,6 @@ I'm part of the computer vision team at [Naver Labs Europe](https://europe.naver
 
 My research is mostly focused on learning visual representations that are robust under challenging conditions. For example, deploying models in unknown domains, or learning from severely biased datasets. Recently, I started gaining interest in continual learning problems, with special focus on continual domain adaptation.
 
-In the past, I've also worked on applications of machine learning for [high-dimensional retinal data](https://www.renvision-fp7.eu/).
+In the past, I've also worked on applications of machine learning to [retinal data](https://www.renvision-fp7.eu/).
 
 Feel free to drop me an email! *rvolpi (at) hey.com*
