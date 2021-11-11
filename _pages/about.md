@@ -14,4 +14,4 @@ I work at [Naver Labs Europe](https://europe.naverlabs.com/), in the computer vi
 
 I am broadly passionate about applications of machine learning to computer vision problems. My main research interests at the moment are **domain adaptation**, **domain generalization**, **model robustness** and **continual learning**.
 
-Feel free to drop me an email! *rvolpi (at) hey.com*
+Feel free to drop me an email! *rvolpi (at) hey.com* (he/him)
