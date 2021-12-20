@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Riccardo Volpi"
 title_separator          : "-"
-name                     : &name "Riccardo Volpi"
+name                     : &name "Riccardo Volpi (he/him)"
 description              : &description "Research Scientist"
 url                      : https://ricvolpi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
