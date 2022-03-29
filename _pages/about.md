@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research scientist and project lead at [Naver Labs Europe](https://europe.naverlabs.com/), where I work continual learning and adaptation for computer vision models.
+I'm a research scientist and project lead at [Naver Labs Europe](https://europe.naverlabs.com/), where I work on continual learning and adaptation for computer vision models.
 
 Previously, I was a Ph.D. student (2015-2018) and postdoc (2018-2019) at [Istituto Italiano di Tecnologia](https://www.iit.it). During my studies, I also spent some time at [Stanford Vision and Learning Lab](http://svl.stanford.edu/) and [University College Cork](https://www.ucc.ie/en/).
 
