@@ -24,7 +24,7 @@ Feel free to drop me an email at *rvolpi (at) hey.com*
 
 - May 4. Gave a seminar at [University of Trento (MHUG)](http://mhug.disi.unitn.it/), "Continual Learning: the State of the Art". [[Slides](https://github.com/ricvolpi/ricvolpi.github.io/blob/master/continual_learning_seminar.pptx)] 
 
-- Apr 22. I was selected as "Highlighted Reviewer of ICLR 2022".
+- Apr 22. I was selected as "[Highlighted Reviewer of ICLR 2022](https://iclr.cc/Conferences/2022/Reviewers)".
 
 - Mar 30. Our paper "On the Road to Online Adaptation for Semantic Image Segmentation" has been accepted to CVPR. [[Paper](https://arxiv.org/abs/2203.16195), [Code](https://github.com/naver/oasis)]
 
