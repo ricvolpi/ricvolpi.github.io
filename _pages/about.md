@@ -26,6 +26,6 @@ Feel free to drop me an email at *rvolpi (at) hey.com*
 
 - Apr 22. I was selected as "Highlighted Reviewer of ICLR 2022".
 
-- Mar 30. Our paper "On the Road to Online Adaptation for Semantic Image Segmentation" has been accepted to CVPR. [[Paper](https://arxiv.org/abs/2203.16195) | [Code](https://github.com/naver/oasis)]
+- Mar 30. Our paper "On the Road to Online Adaptation for Semantic Image Segmentation" has been accepted to CVPR. [[Paper](https://arxiv.org/abs/2203.16195), [Code](https://github.com/naver/oasis)]
 
 - Feb 2. New paper on arXiv, "Make Some Noise: Reliable and Efficient Single-Step Adversarial Training". [[Paper](https://arxiv.org/abs/2202.01181)]
