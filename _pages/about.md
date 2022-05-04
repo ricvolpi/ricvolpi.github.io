@@ -22,10 +22,10 @@ Feel free to drop me an [email](mailto:riccardo.volpi@naverlabs.com).
 
 ## 2022
 
-- May 4. Gave a seminar at [University of Trento (MHUG)](http://mhug.disi.unitn.it/), "Continual Learning: the State of the Art". [[Slides](https://ricvolpi.github.io/files/continual_learning_seminar.pptx)] 
+- May 4. Gave a seminar at [University of Trento (MHUG)](http://mhug.disi.unitn.it/): "Continual Learning: the State of the Art". [[Slides](https://ricvolpi.github.io/files/continual_learning_seminar.pptx)] 
 
-- Apr 22. I was selected as "[Highlighted Reviewer of ICLR 2022](https://iclr.cc/Conferences/2022/Reviewers)".
+- Apr 22. Selected as "[Highlighted Reviewer of ICLR 2022](https://iclr.cc/Conferences/2022/Reviewers)".
 
-- Mar 30. Our paper "On the Road to Online Adaptation for Semantic Image Segmentation" has been accepted to CVPR. [[Paper](https://arxiv.org/abs/2203.16195), [Code](https://github.com/naver/oasis)]
+- Mar 30. One paper accepted to CVPR 2022: "On the Road to Online Adaptation for Semantic Image Segmentation". [[Paper](https://arxiv.org/abs/2203.16195), [Code](https://github.com/naver/oasis)]
 
-- Feb 2. New paper on arXiv, "Make Some Noise: Reliable and Efficient Single-Step Adversarial Training". [[Paper](https://arxiv.org/abs/2202.01181)]
+- Feb 2. New paper on arXiv: "Make Some Noise: Reliable and Efficient Single-Step Adversarial Training". [[Paper](https://arxiv.org/abs/2202.01181)]
