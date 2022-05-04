@@ -15,3 +15,17 @@ I'm broadly passionate about machine learning, and in particular about its appli
 Before joining NLE, I was a Ph.D. student (2015-2018) and postdoc (2018-2019) at [Istituto Italiano di Tecnologia](https://www.iit.it). During my studies, I also spent some time at [Stanford Vision and Learning Lab](http://svl.stanford.edu/) and [University College Cork](https://www.ucc.ie/en/).
 
 Feel free to drop me an email at *rvolpi (at) hey.com*
+
+# News
+
+---
+
+## 2022
+
+- May 4. Gave a seminar at [University of Trento (MHUG)](http://mhug.disi.unitn.it/), "Continual Learning: the State of the Art". [[Slides](add)] 
+
+- Apr 22. I was selected as "Highlighted Reviewer of ICLR 2022".
+
+- Mar 30. Our paper "On the Road to Online Adaptation for Semantic Image Segmentation" has been accepted to CVPR. [[Paper](https://arxiv.org/abs/2203.16195) | [Code](https://github.com/naver/oasis)]
+
+- Feb 2. New paper on arXiv, "Make Some Noise: Reliable and Efficient Single-Step Adversarial Training". [[Paper](https://arxiv.org/abs/2202.01181)]
