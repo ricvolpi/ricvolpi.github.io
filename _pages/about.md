@@ -14,7 +14,7 @@ I'm broadly passionate about machine learning, and in particular about its appli
 
 Before joining NLE, I was a Ph.D. student (2015-2018) and postdoc (2018-2019) at [Istituto Italiano di Tecnologia](https://www.iit.it). During my studies, I also spent some time at [Stanford Vision and Learning Lab](http://svl.stanford.edu/) and [University College Cork](https://www.ucc.ie/en/).
 
-Feel free to drop me an email at *rvolpi (at) hey.com*
+Feel free to drop me an [email](mailto:riccardo.volpi@naverlabs.com).
 
 # News
 
