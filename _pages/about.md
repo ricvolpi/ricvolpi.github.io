@@ -17,7 +17,6 @@ Before joining NLE, I was a Ph.D. student (2015-2018) and postdoc (2018-2019) at
 Feel free to drop me an [email](mailto:riccardo.volpi@naverlabs.com).
 
 # News
-
 ---
 
 ## 2022
