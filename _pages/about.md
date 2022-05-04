@@ -22,7 +22,7 @@ Feel free to drop me an email at *rvolpi (at) hey.com*
 
 ## 2022
 
-- May 4. Gave a seminar at [University of Trento (MHUG)](http://mhug.disi.unitn.it/), "Continual Learning: the State of the Art". [[Slides](https://github.com/ricvolpi/ricvolpi.github.io/blob/master/continual_learning_seminar.pptx)] 
+- May 4. Gave a seminar at [University of Trento (MHUG)](http://mhug.disi.unitn.it/), "Continual Learning: the State of the Art". [[Slides](https://ricvolpi.github.io/files/continual_learning_seminar.pptx)] 
 
 - Apr 22. I was selected as "[Highlighted Reviewer of ICLR 2022](https://iclr.cc/Conferences/2022/Reviewers)".
 
