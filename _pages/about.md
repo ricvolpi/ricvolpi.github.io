@@ -21,7 +21,7 @@ Feel free to drop me an [email](mailto:riccardo.volpi@naverlabs.com).
 
 ## 2022
 
-- May 4. Gave a seminar at [University of Trento (MHUG)](http://mhug.disi.unitn.it/): "Continual Learning: the State of the Art". [[Slides](https://ricvolpi.github.io/files/continual_learning_seminar.pptx)] 
+- May 17. Gave a seminar at [University of Trento](http://mhug.disi.unitn.it/) and at [University of Verona](https://www.univr.it/en/international): "Continual Learning: the State of the Art". [[Slides](https://ricvolpi.github.io/files/continual_learning_seminar.pptx)]
 
 - Apr 22. Selected as "[Highlighted Reviewer of ICLR 2022](https://iclr.cc/Conferences/2022/Reviewers)".
 
