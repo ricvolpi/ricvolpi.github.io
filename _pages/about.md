@@ -21,6 +21,8 @@ Feel free to drop me an [email](mailto:riccardo.volpi@naverlabs.com).
 
 ## 2022
 
+- June 19-24. Attended [CVPR 2022](https://cvpr2022.thecvf.com) in New Orleans and presented our paper "[On the Road to Online Adaptation for Semantic Image Segmentation](https://openaccess.thecvf.com/content/CVPR2022/html/Volpi_On_the_Road_to_Online_Adaptation_for_Semantic_Image_Segmentation_CVPR_2022_paper.html)".
+
 - May 17. Gave a seminar at [University of Trento](http://mhug.disi.unitn.it/) and at [University of Verona](https://www.univr.it/en/international): "Continual Learning: the State of the Art". [[Slides](https://ricvolpi.github.io/files/continual_learning_seminar.pptx)]
 
 - Apr 22. Selected as "[Highlighted Reviewer of ICLR 2022](https://iclr.cc/Conferences/2022/Reviewers)".
