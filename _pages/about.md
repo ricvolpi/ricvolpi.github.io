@@ -29,6 +29,6 @@ Feel free to drop me an [email](mailto:riccardo.volpi@naverlabs.com).
 
 - Apr 22. Selected as "[Highlighted Reviewer of ICLR 2022](https://iclr.cc/Conferences/2022/Reviewers)".
 
-- Mar 30. One paper accepted to CVPR 2022: "On the Road to Online Adaptation for Semantic Image Segmentation". [[Paper](https://arxiv.org/abs/2203.16195), [Code](https://github.com/naver/oasis)]
+- Mar 30. One paper accepted to CVPR 2022: "On the Road to Online Adaptation for Semantic Image Segmentation". [[Paper](https://arxiv.org/abs/2203.16195), [Code](https://github.com/naver/oasis), [Project page](https://europe.naverlabs.com/research/computer-vision/oasis/)]
 
 - Feb 2. New paper on arXiv: "Make Some Noise: Reliable and Efficient Single-Step Adversarial Training". [[Paper](https://arxiv.org/abs/2202.01181)]
