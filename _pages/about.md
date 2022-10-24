@@ -25,7 +25,7 @@ Feel free to drop me an [email](mailto:riccardo.volpi@naverlabs.com).
 
 - Oct. 12. We have **multiple internship openings for 2023**. Topics include multi-task adaptation and vision-and-language. Feel free to reach out for more info!
 
-- Sep. 15. One paper accepted to NeurIPS 2022: "Make Some Noise: Reliable and Efficient Single-Step Adversarial Training". [[Preprint](https://arxiv.org/abs/2202.01181), [Code](https://github.com/pdejorge/N-FGSM)]
+- Sep. 15. One paper accepted to [NeurIPS 2022](https://nips.cc): "Make Some Noise: Reliable and Efficient Single-Step Adversarial Training". [[Preprint](https://arxiv.org/abs/2202.01181), [Code](https://github.com/pdejorge/N-FGSM)]
 
 - June 19-24. Attended [CVPR 2022](https://cvpr2022.thecvf.com) in New Orleans and presented our paper "[On the Road to Online Adaptation for Semantic Image Segmentation](https://openaccess.thecvf.com/content/CVPR2022/html/Volpi_On_the_Road_to_Online_Adaptation_for_Semantic_Image_Segmentation_CVPR_2022_paper.html)".
 
