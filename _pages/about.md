@@ -21,7 +21,7 @@ Feel free to drop me an [email](mailto:riccardo.volpi@naverlabs.com).
 
 ## 2022
 
-- Oct. 19. We've published a book! "Semantic Image Segmentation: Two Decades of Research". [[Publisher's webpage]([url](https://www.nowpublishers.com/article/Details/CGV-095))]
+- Oct. 19. We've published a book! "Semantic Image Segmentation: Two Decades of Research". [[Publisher's wbsite](https://www.nowpublishers.com/article/Details/CGV-095)]
 
 - Oct. 12. We have **multiple internship openings for 2023**. Topics include multi-task adaptation and vision-and-language. Feel free to reach out for more info!
 
