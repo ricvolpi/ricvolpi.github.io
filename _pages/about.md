@@ -23,7 +23,7 @@ Feel free to drop me an [email](mailto:riccardo.volpi@naverlabs.com).
 
 - Nov. 18. We have **multiple internship openings for 2023**. Topics include [multi-task adaptation](https://europe.naverlabs.com/job/online-adaptation-of-multi-task-models-internship/) and [vision-and-language](https://europe.naverlabs.com/job/vision-language-based-explainability-for-computer-vision-models-internship/). Feel free to reach out for more info!
 
-- Nov. 9. One paper published by Scientic Reports: "Understanding action concepts from videos and brain activity through subjects’ consensus". [[Paper](https://www.nature.com/articles/s41598-022-23067-2)]
+- Nov. 9. One paper published by Scientific Reports: "Understanding action concepts from videos and brain activity through subjects’ consensus". [[Paper](https://www.nature.com/articles/s41598-022-23067-2)]
 
 - Oct. 19. We've published a book! "Semantic Image Segmentation: Two Decades of Research". [[pdf](https://github.com/ricvolpi/ricvolpi.github.io/blob/master/files/semantic_segmentation_two_decades_of_research.pdf)][[Publisher website](https://www.nowpublishers.com/article/Details/CGV-095)]
 
