@@ -19,7 +19,7 @@ Feel free to drop me an [email](mailto:riccardo.volpi@naverlabs.com).
 # News
 ---
 
-- One paper accepted to CVPR 2023 ("Reliability in Semantic Segmentation: Are We on the Right Track?"). See you in Vancouver.
+- One paper accepted to CVPR 2023 ("Reliability in Semantic Segmentation: Are We on the Right Track?"). See you in Vancouver!
 
 - ~~We have multiple internship openings for 2023. Topics include multi-task adaptation and vision-and-language. Feel free to reach out for more info.~~
 
