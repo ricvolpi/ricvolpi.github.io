@@ -19,22 +19,12 @@ Feel free to drop me an [email](mailto:riccardo.volpi@naverlabs.com).
 # News
 ---
 
-## 2022
+- One paper accepted to CVPR 2023 ("Reliability in Semantic Segmentation: Are We on the Right Track?"). See you in Vancouver.
 
-- Nov. 18. We have **multiple internship openings for 2023**. Topics include [multi-task adaptation](https://europe.naverlabs.com/job/online-adaptation-of-multi-task-models-internship/) and [vision-and-language](https://europe.naverlabs.com/job/vision-language-based-explainability-for-computer-vision-models-internship/). Feel free to reach out for more info!
+- ~~We have multiple internship openings for 2023. Topics include multi-task adaptation and vision-and-language. Feel free to reach out for more info.~~
 
-- Nov. 9. One paper published by Scientific Reports: "Understanding action concepts from videos and brain activity through subjects’ consensus". [[Paper](https://www.nature.com/articles/s41598-022-23067-2)]
+- Paper published by Scientific Reports: "Understanding action concepts from videos and brain activity through subjects’ consensus". [[Paper](https://www.nature.com/articles/s41598-022-23067-2)]
 
-- Oct. 19. We've published a book! "Semantic Image Segmentation: Two Decades of Research". [[pdf](https://github.com/ricvolpi/ricvolpi.github.io/blob/master/files/semantic_segmentation_two_decades_of_research.pdf)][[Publisher website](https://www.nowpublishers.com/article/Details/CGV-095)]
+- We've published a book! "Semantic Image Segmentation: Two Decades of Research". [[pdf](https://github.com/ricvolpi/ricvolpi.github.io/blob/master/files/semantic_segmentation_two_decades_of_research.pdf)][[Publisher website](https://www.nowpublishers.com/article/Details/CGV-095)]
 
-- Sep. 15. One paper accepted to [NeurIPS 2022](https://nips.cc): "Make Some Noise: Reliable and Efficient Single-Step Adversarial Training". [[Preprint](https://arxiv.org/abs/2202.01181), [Code](https://github.com/pdejorge/N-FGSM)]
-
-- June 19-24. Attended [CVPR 2022](https://cvpr2022.thecvf.com) in New Orleans and presented our paper "[On the Road to Online Adaptation for Semantic Image Segmentation](https://openaccess.thecvf.com/content/CVPR2022/html/Volpi_On_the_Road_to_Online_Adaptation_for_Semantic_Image_Segmentation_CVPR_2022_paper.html)".
-
-- May 17. Gave a seminar at [University of Trento](http://mhug.disi.unitn.it/) and at [University of Verona](https://www.univr.it/en/international): "Continual Learning: the State of the Art". [[Slides](https://ricvolpi.github.io/files/continual_learning_seminar.pptx)]
-
-- Apr 22. Selected as "[Highlighted Reviewer of ICLR 2022](https://iclr.cc/Conferences/2022/Reviewers)".
-
-- Mar 30. One paper accepted to CVPR 2022: "On the Road to Online Adaptation for Semantic Image Segmentation". [[Paper](https://arxiv.org/abs/2203.16195), [Code](https://github.com/naver/oasis), [Project page](https://europe.naverlabs.com/research/computer-vision/oasis/)]
-
-- Feb 2. New paper on arXiv: "Make Some Noise: Reliable and Efficient Single-Step Adversarial Training". [[Paper](https://arxiv.org/abs/2202.01181)]
+- One paper accepted to NeurIPS 2022: "Make Some Noise: Reliable and Efficient Single-Step Adversarial Training". [[Preprint](https://arxiv.org/abs/2202.01181), [Code](https://github.com/pdejorge/N-FGSM)]
