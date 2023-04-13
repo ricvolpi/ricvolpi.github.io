@@ -19,7 +19,7 @@ Feel free to drop me an [email](mailto:riccardo.volpi@naverlabs.com).
 # News
 ---
 
-- One paper accepted to CVPR 2023: "Reliability in Semantic Segmentation: Are We on the Right Track?". See you in Vancouver! [[Paper](https://arxiv.org/abs/2303.11298), [code (WIP)](https://github.com/naver/relis)]
+- One paper accepted to CVPR 2023: "Reliability in Semantic Segmentation: Are We on the Right Track?". See you in Vancouver! [[Paper](https://arxiv.org/abs/2303.11298), [Code](https://github.com/naver/relis)]
 
 - ~~We have multiple internship openings for 2023. Topics include multi-task adaptation and vision-and-language. Feel free to reach out for more info.~~
 
@@ -27,4 +27,4 @@ Feel free to drop me an [email](mailto:riccardo.volpi@naverlabs.com).
 
 - We've published a book! "Semantic Image Segmentation: Two Decades of Research". [[pdf](https://github.com/ricvolpi/ricvolpi.github.io/blob/master/files/semantic_segmentation_two_decades_of_research.pdf)][[Publisher website](https://www.nowpublishers.com/article/Details/CGV-095)]
 
-- One paper accepted to NeurIPS 2022: "Make Some Noise: Reliable and Efficient Single-Step Adversarial Training". [[Preprint](https://arxiv.org/abs/2202.01181), [Code](https://github.com/pdejorge/N-FGSM)]
+- One paper accepted to NeurIPS 2022: "Make Some Noise: Reliable and Efficient Single-Step Adversarial Training". [[Preprint](https://openreview.net/forum?id=NENo__bExYu), [Code](https://github.com/pdejorge/N-FGSM)]
