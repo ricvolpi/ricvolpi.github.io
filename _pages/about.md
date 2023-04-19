@@ -19,12 +19,12 @@ Feel free to drop me an [email](mailto:riccardo.volpi@naverlabs.com).
 # News
 ---
 
-- One paper accepted to CVPR 2023: "Reliability in Semantic Segmentation: Are We on the Right Track?". See you in Vancouver! [[Paper](https://arxiv.org/abs/2303.11298), [Code](https://github.com/naver/relis)]
+- We'll have a tutorial at ICCV 2023, "Visual Recognition Beyond the Comfort Zone: Adapting to Unseen Concepts on the Fly". See you in Paris!
 
-- ~~We have multiple internship openings for 2023. Topics include multi-task adaptation and vision-and-language. Feel free to reach out for more info.~~
+- We'll present a paper at CVPR 2023: "Reliability in Semantic Segmentation: Are We on the Right Track?". See you in Vancouver! [[Paper](https://arxiv.org/abs/2303.11298), [Code](https://github.com/naver/relis)]
 
 - Paper published by Scientific Reports: "Understanding action concepts from videos and brain activity through subjects’ consensus". [[Paper](https://www.nature.com/articles/s41598-022-23067-2)]
 
 - We've published a book! "Semantic Image Segmentation: Two Decades of Research". [[pdf](https://github.com/ricvolpi/ricvolpi.github.io/blob/master/files/semantic_segmentation_two_decades_of_research.pdf)][[Publisher website](https://www.nowpublishers.com/article/Details/CGV-095)]
 
-- One paper accepted to NeurIPS 2022: "Make Some Noise: Reliable and Efficient Single-Step Adversarial Training". [[Preprint](https://openreview.net/forum?id=NENo__bExYu), [Code](https://github.com/pdejorge/N-FGSM)]
+- Paper accepted to NeurIPS 2022: "Make Some Noise: Reliable and Efficient Single-Step Adversarial Training". [[Preprint](https://openreview.net/forum?id=NENo__bExYu), [Code](https://github.com/pdejorge/N-FGSM)]
