@@ -25,4 +25,4 @@ Feel free to drop me an [email](mailto:riccardo.volpi@naverlabs.com).
 
 - We'll present a paper at CVPR 2023: "Reliability in Semantic Segmentation: Are We on the Right Track?". See you in Vancouver. [[Paper](https://arxiv.org/abs/2303.11298), [Code](https://github.com/naver/relis)]
 
-- We've published a book: "Semantic Image Segmentation: Two Decades of Research". [[pdf](https://github.com/ricvolpi/ricvolpi.github.io/blob/master/files/semantic_segmentation_two_decades_of_research.pdf), [Publisher website](https://www.nowpublishers.com/article/Details/CGV-095)]
+- We've published a book: "Semantic Image Segmentation: Two Decades of Research". [[PDF](https://github.com/ricvolpi/ricvolpi.github.io/blob/master/files/semantic_segmentation_two_decades_of_research.pdf), [Publisher website](https://www.nowpublishers.com/article/Details/CGV-095)]
