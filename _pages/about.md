@@ -19,8 +19,8 @@ Feel free to drop me an [email](mailto:riccardo.volpi@naverlabs.com).
 # News
 ---
 
-- Paper accepted to CoLLAs 2023: "RaSP: Relation-aware Semantic Prior \\ for Weakly Supervised Incremental Segmentation". Soon on arXiv.
-
+- Paper accepted to CoLLAs 2023: "RaSP: Relation-aware Semantic Prior \\ for Weakly Supervised Incremental Segmentation". [[Paper](https://arxiv.org/abs/2305.19879), [Code](https://github.com/naver/rasp)]
+  
 - We'll have a tutorial at ICCV 2023: "Visual Recognition Beyond the Comfort Zone: Adapting to Unseen Concepts on the Fly". See you in Paris.
 
 - We'll present a paper at CVPR 2023: "Reliability in Semantic Segmentation: Are We on the Right Track?". See you in Vancouver. [[Paper](https://arxiv.org/abs/2303.11298), [Code](https://github.com/naver/relis)]
