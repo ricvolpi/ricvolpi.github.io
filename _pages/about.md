@@ -15,6 +15,6 @@ I'm currently interested in improving the explainability and reliability of comp
 
 I'm working as a research scientist and project lead at [Naver Labs Europe](https://europe.naverlabs.com/). Before joining NLE, I was a Ph.D. student (2015-2018) and postdoc (2018-2019) at [Istituto Italiano di Tecnologia](https://www.iit.it). During my studies, I also spent some time at [Stanford Vision and Learning Lab](http://svl.stanford.edu/) and [University College Cork](https://www.ucc.ie/en/).
 
-When I'm not in the lab, I love travelling, taking photos and [reading books](https://www.goodreads.com/user/show/43115920-riccardo-volpi).
+When I'm not in the lab, I love skiing, travelling, taking photos and reading.
 
 Feel free to drop me an [email](mailto:rvolpi@hey.com).
