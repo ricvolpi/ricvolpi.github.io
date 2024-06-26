@@ -18,3 +18,9 @@ I'm working as a research scientist and project lead at [Naver Labs Europe](http
 When I'm not in the lab, I love skiing, travelling, taking photos and reading.
 
 Feel free to drop me an [email](mailto:rvolpi@hey.com).
+
+# News
+
+- We will present [SHiNe](https://arxiv.org/abs/2405.10053) at CVPR 2024 (highlight)
+- I'm one of the [outstanding reviewers](https://x.com/CVPR/status/1793616950314369239) at CVPR 2024
+- I'm AC for NeurIPS 2024
