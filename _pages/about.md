@@ -21,6 +21,8 @@ Feel free to drop me an [email](mailto:rvolpi@hey.com).
 
 # News
 
-- We will present [SHiNe](https://arxiv.org/abs/2405.10053) at CVPR 2024 (highlight)
+- [POC](https://github.com/naver/poc) has been accepted to ECCV 2024
+- [PANDAS](https://github.com/naver/pandas) has been accepted to CoLLAs 2024
+- We will present [SHiNe](https://github.com/naver/shine) at CVPR 2024 (highlight)
 - I'm one of the [outstanding reviewers](https://x.com/CVPR/status/1793616950314369239) at CVPR 2024
 - I'm AC for NeurIPS 2024
