@@ -26,3 +26,7 @@ Feel free to drop me an [email](mailto:rvolpi@hey.com).
 - We will present [SHiNe](https://github.com/naver/shine) at CVPR 2024 (highlight)
 - I'm one of the [outstanding reviewers](https://x.com/CVPR/status/1793616950314369239) at CVPR 2024
 - I'm AC for NeurIPS 2024
+
+# Resources
+
+- Our [book on semantic segmentation](https://github.com/ricvolpi/ricvolpi.github.io/blob/master/files/semantic_segmentation_two_decades_of_research.pdf)
