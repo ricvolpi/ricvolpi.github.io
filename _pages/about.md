@@ -21,6 +21,7 @@ Feel free to drop me an [email](mailto:rvolpi@hey.com).
 
 # News
 
+- [New paper on arXiv](https://arxiv.org/abs/2408.04471) about debugging computer vision models via natural language
 - [POC](https://github.com/naver/poc) has been accepted to ECCV 2024
 - [PANDAS](https://github.com/naver/pandas) has been accepted to CoLLAs 2024
 - We will present [SHiNe](https://github.com/naver/shine) at CVPR 2024 (highlight)
