@@ -80,7 +80,7 @@ select {
   padding: 0.25em;
   margin-bottom: 0.5em;
   color: $text-color;
-  background-color: #16213e;
+  background-color: #353535;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
@@ -151,7 +151,7 @@ input[type="file"] {
 
 select {
   width: auto;
-  background-color: #16213e;
+  background-color: #353535;
 }
 
 select[multiple],
@@ -342,7 +342,7 @@ select:focus {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(26, 26, 46, 0.7);
+  background-color: rgba(63, 63, 63, 0.7);
   z-index: 10;
 }
 
