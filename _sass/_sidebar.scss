@@ -149,41 +149,46 @@
 }
 
 .author__urls {
-  display: block;
+  display: flex !important;
+  flex-wrap: wrap;
+  gap: 0;
   margin: 0;
   padding: 0;
   list-style-type: none;
+  position: relative;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
 
-  &.social-icons--inline {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0;
+  &:before,
+  &:after {
+    display: none;
+  }
 
-    li {
-      display: inline-block;
+  li {
+    display: inline-block;
+  }
+
+  a {
+    display: inline-block;
+    padding: 0.35em;
+    color: $text-color;
+    font-size: 1.2em;
+    text-decoration: none;
+    -webkit-transition: $global-transition;
+    transition: $global-transition;
+
+    i,
+    .fa,
+    .fas,
+    .fab,
+    .far {
+      color: inherit !important;
     }
 
-    a {
-      display: inline-block;
-      padding: 0.35em;
-      color: $text-color;
-      font-size: 1.2em;
+    &:hover {
+      color: $link-color;
       text-decoration: none;
-      -webkit-transition: $global-transition;
-      transition: $global-transition;
-
-      i,
-      .fa,
-      .fas,
-      .fab,
-      .far {
-        color: inherit !important;
-      }
-
-      &:hover {
-        color: $link-color;
-        text-decoration: none;
-      }
     }
   }
 }
