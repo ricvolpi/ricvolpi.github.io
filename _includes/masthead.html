@@ -5,7 +5,10 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
-        <a class="site-title" href="{{ base_path }}/">{{ site.author.name }}</a>
+        <div class="site-title-wrap">
+          <a class="site-title" href="{{ base_path }}/">{{ site.author.name }}</a>
+          {% if site.author.bio %}<p class="site-tagline">{{ site.author.bio }}</p>{% endif %}
+        </div>
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}

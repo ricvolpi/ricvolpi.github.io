@@ -33,10 +33,24 @@
       text-decoration: none;
     }
 
+    .site-title-wrap {
+      margin-bottom: 0.25em;
+      text-align: left;
+    }
+
     .site-title {
       font-family: $global-font-family;
       font-weight: 700;
       font-size: $type-size-4;
+      display: block;
+      margin: 0;
+      padding: 0;
+    }
+
+    .site-tagline {
+      font-family: $global-font-family;
+      font-size: $type-size-6;
+      margin: 0;
     }
   }
 }
