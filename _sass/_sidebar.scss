@@ -70,14 +70,10 @@
    ========================================================================== */
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  display: block;
+  margin-bottom: 0.5em;
 
   @include breakpoint($large) {
-    display: block;
     width: auto;
     height: auto;
     text-align: center;
@@ -86,11 +82,8 @@
   img {
     max-width: 175px;
     border-radius: 0;
-
-    @include breakpoint($large) {
-      padding: 0;
-      border: none;
-    }
+    padding: 0;
+    border: none;
   }
 }
 
@@ -157,7 +150,10 @@
 .author__urls {
   display: flex !important;
   flex-wrap: wrap;
-  justify-content: center;
+
+  @include breakpoint($large) {
+    justify-content: center;
+  }
   gap: 0;
   margin: 0;
   padding: 0;
