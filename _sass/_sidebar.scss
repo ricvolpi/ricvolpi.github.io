@@ -80,15 +80,16 @@
     display: block;
     width: auto;
     height: auto;
+    text-align: center;
   }
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 0;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 0;
+      border: none;
     }
   }
 }
@@ -105,6 +106,7 @@
     width: 100%;
     padding-left: 0;
     padding-right: 0;
+    text-align: center;
   }
 }
 
@@ -146,11 +148,16 @@
   display: block;
   font-family: $sans-serif;
   z-index: 10;
+
+  @include breakpoint($large) {
+    text-align: center;
+  }
 }
 
 .author__urls {
   display: flex !important;
   flex-wrap: wrap;
+  justify-content: center;
   gap: 0;
   margin: 0;
   padding: 0;

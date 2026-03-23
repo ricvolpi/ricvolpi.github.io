@@ -14,15 +14,6 @@
     {% endif %}
   </div>
 
-  <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-  </div>
-
-  {% if author.location %}
-    <p class="author__location"><i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> {{ author.location }}</p>
-  {% endif %}
-
   <div class="author__urls-wrapper">
     <ul class="author__urls social-icons social-icons--inline">
       {% if author.email %}
@@ -73,4 +64,6 @@
       {% endif %}
     </ul>
   </div>
+
+  {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
 </div>
