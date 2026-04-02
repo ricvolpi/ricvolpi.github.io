@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm lead AI scientist at [Arsenale BioYards](https://www.arsenale.bio), where we use machine learning to advance precision fermentation.
+I'm lead AI scientist at [Arsenale BioYards](https://www.arsenale.bio), building models to accelerate precision fermentation.
 
 Before that, I spent four years at [Naver Labs Europe](https://europe.naverlabs.com/) as a research scientist. Previously, I was a postdoc at [Istituto Italiano di Tecnologia](https://www.iit.it), where I also earned my PhD in 2018. During grad school, I also spent some time at [Stanford Vision and Learning Lab](http://svl.stanford.edu/).
 
